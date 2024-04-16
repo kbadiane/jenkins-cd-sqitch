@@ -1,6 +1,6 @@
 %syntax-version=1.0.0
 %project=testpg
-%uri=https://tetranoodle@bitbucket.org/tetranoodle/db_test.git
+%uri=https://github.com/kbadiane/jenkins-cd-sqitch.git
 
-schema 2016-09-06T13:21:21Z test1 <test1> # add
-video [schema] 2016-09-06T13:25:48Z test1 <test1> # add video
+schema 2024-04-16T16:37:21Z test1 <test1> # add
+video [schema] 2024-04-16T16:37:25Z test1 <test1> # add video
